@@ -1,1 +1,14 @@
+ <section id="about_taiwan">
+      <h2>Taiwan</h2>
+      <p>Taiwan is a vibrant and diverse country, offering a mix of modern cities and natural beauty.</p>
+      <h3>Culture & History</h3>
+      <p>Taiwan has a rich cultural heritage influenced by Chinese, Japanese, and indigenous traditions deeply rooted in everyday life through cuisine and architecture. With one of the most iconic cultural celebration the Taiwanese lantern festival.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/%E5%B9%B3%E6%BA%AA%E5%A4%A9%E7%87%88%E7%AF%80-2.JPG" alt="lantern festival" class="center">
+      <h3>Best Time to Visit Taiwan</h3>
+      <p>The best time to visit Taiwan is during the spring (March to May) or autumn (September to November). With the perfect balance of warm but not too hot and beautiful scenery during this time period. 
+         <img src="https://deih43ym53wif.cloudfront.net/mountain-sunset-alishan-taiwan-shutterstock_132190970_03a1bd25f6.jpeg" alt="spring taiwan" class="center">
+      <h4>Cuisine</h4>
+      <p>Taiwan provides some of the most diverse and yummy food in Asia with classic dishes such as beef noodles, hotpot scallion pancakes and one of their most iconic drink Bubble tea.</p>
+      <img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/6/13/boba-milk-tea.jpg.rend.hgtvcom.616.411.85.suffix/1686684207354.webp" alt="bubble tea" class="center">
+   </section>
 

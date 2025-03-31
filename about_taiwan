@@ -4,7 +4,7 @@
    <header>
       <h1>Welcome to Taiwan Travel Guide</h1>
    </header>
-<section id="about_taiwan">
+   <section id="about_taiwan">
       <h2>Taiwan</h2>
       <p>Taiwan is a vibrant and diverse country, offering a mix of modern cities and natural beauty.</p>
       <h3>Culture & History</h3>

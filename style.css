@@ -5,8 +5,7 @@
       body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      background-color: #f4f4f4;      
-      }
+      background-color: #f4f4f4;        }
       header {
       background-color: #00796b;
       color: white;
@@ -71,5 +70,11 @@
       }
       p {
       text-align:center;
+      }
+      .parent {
+      text-align: center;
+      }
+      .parent > ul {
+      display: inline-block;
       }
    </style>

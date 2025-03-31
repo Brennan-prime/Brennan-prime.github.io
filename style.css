@@ -74,7 +74,4 @@
       .parent {
       text-align: center;
       }
-      .parent > ul {
-      display: inline-block;
-      }
    </style>

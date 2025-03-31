@@ -1,4 +1,10 @@
- <section id="about_taiwan">
+</head>
+<link rel="stylesheet" type="text/css" href="https://brennan-prime.github.io/style.css"
+<body>
+   <header>
+      <h1>Welcome to Taiwan Travel Guide</h1>
+   </header>
+<section id="about_taiwan">
       <h2>Taiwan</h2>
       <p>Taiwan is a vibrant and diverse country, offering a mix of modern cities and natural beauty.</p>
       <h3>Culture & History</h3>
@@ -11,4 +17,5 @@
       <p>Taiwan provides some of the most diverse and yummy food in Asia with classic dishes such as beef noodles, hotpot scallion pancakes and one of their most iconic drink Bubble tea.</p>
       <img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/6/13/boba-milk-tea.jpg.rend.hgtvcom.616.411.85.suffix/1686684207354.webp" alt="bubble tea" class="center">
    </section>
-
+</body>
+</head>

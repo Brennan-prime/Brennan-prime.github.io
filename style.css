@@ -1,85 +1,73 @@
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;   
-        }
-
-        header {
-            background-color: #00796b;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-        }
-
-        h1, h2, h3 h4{
-            font-family: 'Georgia', serif;
-        }
-
-        nav {
-            background-color: #004d40;
-            padding: 10px;
-            text-align: center;
-        }
-
-        nav ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        nav ul li {
-            display: inline;
-            margin-right: 15px;
-        }
-
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        nav ul li a:hover {
-            text-decoration: underline;
-        }
-
-        section {
-            padding: 20px;
-            margin: 20px;
-            background-color: white;
-            border-radius: 8px;
-        }
-
-        table {
-            width: 100%;
-            margin: 20px 0;
-            border-collapse: collapse;
-        }
-
-        table, th, td {
-            border: 1px solid #ddd;
-        }
-
-        th, td {
-            padding: 10px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #00796b;
-            color: white;
-          }
-            .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 80%;
-            }
-
-
-        h2, h3, h4 {
-            text-align:center;
-        }
-        p {
-            text-align:center;
-        }
-    </style>
+<head>
+   <meta charset="UTF-8">
+   <title>Reasons to travel to Taiwan</title>
+   <style>
+      body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;        }
+      header {
+      background-color: #00796b;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      }
+      h1, h2, h3 h4{
+      font-family: 'Georgia', serif;
+      }
+      nav {
+      background-color: #004d40;
+      padding: 10px;
+      text-align: center;
+      }
+      nav ul {
+      list-style: none;
+      padding: 0;
+      }
+      nav ul li {
+      display: inline;
+      margin-right: 15px;
+      }
+      nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      }
+      nav ul li a:hover {
+      text-decoration: underline;
+      }
+      section {
+      padding: 20px;
+      margin: 20px;
+      background-color: white;
+      border-radius: 8px;
+      }
+      table {
+      width: 100%;
+      margin: 20px 0;
+      border-collapse: collapse;
+      }
+      table, th, td {
+      border: 1px solid #ddd;
+      }
+      th, td {
+      padding: 10px;
+      text-align: left;
+      }
+      th {
+      background-color: #00796b;
+      color: white;
+      }
+      .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+      }
+      h2, h3, h4 {
+      text-align:center;
+      }
+      p {
+      text-align:center;
+      }
+   </style>
